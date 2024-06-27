@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Ceviche",
+        "ingredients": ["4", "5", "6", "7"],
+        "description": "Plato peruano de pescado fresco marinado en jugo de limón, servido con maíz y camote.",
+        "image": "app/img/ceviche.jpg"
+    },
+    {
+        "name": "Lomo Saltado",
+        "ingredients": ["1", "6", "8", "9"],
+        "description": "Plato peruano que combina carne de res salteada con papas y cebolla, sazonado con aji amarillo.",
+        "image": "app/img/lomo.jpg"
+    },
+    {
+        "name": "Aji de Gallina",
+        "ingredients": [ "2", "9","10", "11"],
+        "description": "Plato peruano hecho de pechuga de pollo deshilachada en salsa cremosa de aji amarillo y nueces.",
+        "image": "app/img/aji.jpg"
+    }
+]
